@@ -1,10 +1,7 @@
 # SAP-GUI-Scripting
 Automate Scripts to generate report in SAP
 
-
-
-
-Sub SCP()
+Sub Generalmonitoring()
 
 Dim Appl As Object
 Dim Connection As Object
